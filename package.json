@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "scripts": {
-        "start": "ts-node -transpile-only src/index.ts",
+        "start": "ts-node --transpileOnly src/index.ts",
         "dev": "ts-node-dev src/index.ts"
     },
     "dependencies": {
